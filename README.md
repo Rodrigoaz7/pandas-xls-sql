@@ -5,7 +5,7 @@
 - Para rodar o projeto, basta apenas ter o python e o pip instalados para então usar o comando *pip install pandas* que irá instalar a biblioteca do pandas. 
 
 ### Execução
-- Para executar o projeto basta rodar com *python ~nome_do_projeto.py~*
+- Para executar o projeto basta rodar com *python nome_do_projeto.py*
 
 ### Observações
 - Utilizei de um banco de dados já modelado em postgreSQL, então o algoritmo tem a função apenas de gerar os scripts de INSERTS e UPDATES a serem rodados direto no banco.
